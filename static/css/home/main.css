@@ -1,0 +1,185 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #eee;
+}
+
+#time {
+    font-size: 80px;
+    font-weight: bold;
+    color: #333;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    margin-bottom: 50px;
+}
+
+#slideshow {
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+}
+
+#slideshow img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+#slideshow img.active {
+    opacity: 1;
+}
+
+#clock{
+    z-index: 2;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Fallback background color */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    font-family: Arial, sans-serif; /* Choose your preferred font */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    text-align: center;
+    color: #fff; /* Text color for clock */
+}
+#clock {
+    padding-top: 50px;
+    font-size: 3rem; /* Adjust font size as needed */
+    margin-bottom: 1rem;
+}
+#slideshow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+#slideshow img {
+    display: none;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+#slideshow img.active {
+    display: block;
+}
+.blur-container{
+    position: relative;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 20px;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+.blur-container {
+    width: 80%;
+    max-width: 500px;
+    margin: auto;
+}
+.weather-container {
+    font-size: 2rem;
+    color: #fff;
+}
+
+/* Additional CSS for weather container */
+.weather-container {
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+}
+.weather-container span {
+    display: block;
+}
+.temperature {
+    font-size: 1.5rem;
+}
+
+#inside-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px; /* Adjust margin as needed */
+}
+.icon-container{
+    text-decoration: none;
+    background: rgba(0, 0, 0, 0.72);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px; /* Add margin to separate the containers */
+    width: 80px; /* Adjust width of each icon container */
+    height: 80px; /* Adjust height of each icon container */
+    transition: transform 0.3s ease-in-out; /* Smooth transition */
+}
+.icon-container i {
+    font-size: 2rem; /* Adjust icon size */
+}
+
+.icon-container:hover {
+    transform: scale(1.1); /* Enlarge on hover */
+}
+
+.fa-youtube {
+    color: red;
+}
+.fa-spotify {
+    color: lawngreen;
+}
+
+.fa-newspaper{
+    color: white;
+}
+
+
+.hidden-container {
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.62);
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
+    z-index: 100; /* Ensure it appears above other content */
+
+}
+
+
+
+
+
+@keyframes fadeInOut {
+    0% {
+        opacity: 0; /* Start with opacity 0 */
+    }
+    10% {
+        opacity: 1; /* Quickly fade in to full opacity */
+    }
+    90% {
+        opacity: 1; /* Stay at full opacity */
+    }
+    100% {
+        opacity: 0; /* Fade out to opacity 0 */
+    }
+}

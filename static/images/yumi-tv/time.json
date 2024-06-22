@@ -1,0 +1,10 @@
+{
+  "folders": [
+    { "name": "midnight", "startTime": "00:00", "endTime": "05:59", "qty": 6},
+    { "name": "morning", "startTime": "06:00", "endTime": "11:59", "qty": 7},
+    { "name": "noon", "startTime": "12:00", "endTime": "15:59", "qty": 6},
+    { "name": "teatime", "startTime": "16:00", "endTime": "18:59", "qty": 7},
+    { "name": "sunset", "startTime": "19:00", "endTime": "19:59", "qty": 12},
+    { "name": "night", "startTime": "20:00", "endTime": "23:59", "qty": 11}
+  ]
+}

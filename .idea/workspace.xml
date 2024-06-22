@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f94842d5-13ae-4851-b066-2b389cac272a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/yumi-tv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/home/clock.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/home/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/midnight/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/midnight/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/midnight/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/midnight/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/midnight/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/midnight/6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/morning/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/morning/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/morning/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/morning/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/morning/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/morning/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/morning/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/night/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/night/10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/night/11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/night/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/night/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/night/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/night/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/night/6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/night/7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/night/8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/night/9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/noon/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/noon/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/noon/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/noon/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/noon/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/noon/6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/sunset/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/sunset/10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/sunset/11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/sunset/12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/sunset/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/sunset/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/sunset/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/sunset/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/sunset/6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/sunset/7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/sunset/8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/sunset/9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/teatime/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/teatime/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/teatime/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/teatime/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/teatime/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/teatime/6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/teatime/7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yumi-tv/time.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/home/clock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/home/slideshow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/home/weather.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2i1J4nuCbJdD15btL9VAgjcbSOW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="yumi-tv" type="Python.FlaskServer">
+      <module name="yumi-tv" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17011.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f94842d5-13ae-4851-b066-2b389cac272a" name="Changes" comment="" />
+      <created>1718651966123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718651966123</updated>
+      <workItem from="1718651983596" duration="2074000" />
+      <workItem from="1719045929777" duration="1244000" />
+      <workItem from="1719081923757" duration="7601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
